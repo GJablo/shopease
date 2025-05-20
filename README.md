@@ -23,7 +23,7 @@ ecommerce-site/
 ├── style.css            # Styling for all pages
 ├── script.js            # JavaScript interactivity
 ├── assets/
-│   └── images/          # (Optional) Images folder
+│   └── images/          # Images folder
 └── README.md            # Project documentation
 ```
 
